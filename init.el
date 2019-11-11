@@ -28,3 +28,4 @@
   (company-mode 1)
   (alchemist-mode 1)
   )
+(normal-erase-is-backspace-mode)
